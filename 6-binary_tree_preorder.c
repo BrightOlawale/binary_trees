@@ -6,7 +6,7 @@
  * using pre-order traversal
  * @tree: The tree to traverse
  * @func: The fuction to pass while traversing
- * Return: Void
+ * Return: Null if tree doest exist
  */
 
 
